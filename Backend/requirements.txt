@@ -4,3 +4,4 @@ Pillow
 numpy
 os-sys
 Flask-Cors
+pip
