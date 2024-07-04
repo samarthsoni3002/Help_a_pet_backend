@@ -4,7 +4,6 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 import numpy as np
 import os
-from dog_breed_names import dog_names
 from flask_cors import CORS
 import re
 
